@@ -1,9 +1,5 @@
 #trapezoidal integral method
 
-from scipy import random 
-import numpy as np 
-import matplotlib.pyplot as plt 
-
 
 # limits of integration (a,b)
 # number of trapezoids n
